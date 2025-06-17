@@ -62,3 +62,19 @@ The visual foundation is the _Massively_ HTML template, which I’ve extended wi
    ```bash
    git clone https://github.com/nowackiadrian/PortfolioWebsite.git
    cd PortfolioWebsite
+
+## Project Structure
+
+.
+├── assets/            # Images, CSS, JS
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── index.html
+├── projects.html
+├── certificates.html
+├── about.html
+├── contact.html
+├── README.md
+└── LICENSE.txt
+
