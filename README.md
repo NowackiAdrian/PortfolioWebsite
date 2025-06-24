@@ -37,8 +37,8 @@ The portfolio website consists of several key pages, each serving a dedicated pu
 - **index.html** – Landing page that introduces the portfolio and highlights selected projects.  
 - **PowerBITrustpilotProject.html** – Detailed case‑study page with insights and visualisations for the Trustpilot Power BI analysis.  
 - **certificates.html** – Gallery of certifications with issuing institutions and descriptive context.  
-- **aboutMe.html** – Concise bio, technical stack summary, and background information.  
-- **contact.html** – Contact form plus links to LinkedIn, GitHub, and email.
+- **aboutMe.html** – Concise bio and background information.  
+- **contact.html** – Contact information plus links to LinkedIn and GitHub.
 
 ---
 
