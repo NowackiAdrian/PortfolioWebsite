@@ -20,6 +20,7 @@ Explain your idea for implementation. Be specific.
 - [ ] Style/responsiveness complete
 - [ ] Code is clean, no errors
 - [ ] Works as expected on GitHub Pages
+- [ ] Update README.md file 
 
 ### Additional Context
 Add images, sketches, links, or anything helpful.
