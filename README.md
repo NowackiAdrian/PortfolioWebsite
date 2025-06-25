@@ -70,6 +70,7 @@ PortfolioWebsite/
 ├── certificates/                    # Certificate documents (PDFs)
 ├── images/                          # Image assets
 └── logos/                           # Logos used across the site
+└── CV                               # Actual CV in pdf 
 ```
 
 ## Customization Notes
