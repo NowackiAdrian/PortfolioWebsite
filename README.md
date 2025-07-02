@@ -39,6 +39,7 @@ The portfolio website consists of several key pages, each serving a dedicated pu
 - **certificates.html** – Gallery of certifications with issuing institutions and descriptive context.  
 - **aboutMe.html** – Concise bio and background information.  
 - **contact.html** – Contact information plus links to LinkedIn and GitHub.
+- **skills.html** - Technical tools and concepts I know 
 
 ---
 
@@ -60,6 +61,7 @@ PortfolioWebsite/
 ├── certificates.html                # Certificates listing
 ├── aboutMe.html                     # Bio and skills summary
 ├── contact.html                     # Contact form and social links
+├── skills.html                      # Technical skills and Concepts
 ├── LICENSE.txt                      # CC BY 3.0 license text
 ├── README.md                        # Project description (this file)
 ├── assets/
