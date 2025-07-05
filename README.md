@@ -37,6 +37,7 @@ The portfolio website consists of several key pages, each serving a dedicated pu
 - **index.html** – Landing page that introduces the portfolio and highlights selected projects.  
 - **PowerBITrustpilotProject.html** – Detailed case‑study page with insights and visualisations for the Trustpilot Power BI analysis.  
 - **certificates.html** – Gallery of certifications with issuing institutions and descriptive context.  
+- **gitDataCampPath.html** – Breakdown of the Git Fundamentals skill track from DataCamp, including key skills learned in each course and downloadable PDF certificates.  
 - **aboutMe.html** – Concise bio and background information.  
 - **contact.html** – Contact information plus links to LinkedIn and GitHub.
 - **skills.html** - Technical tools and concepts I know 
@@ -61,6 +62,7 @@ PortfolioWebsite/
 ├── certificates.html                # Certificates listing
 ├── aboutMe.html                     # Bio and skills summary
 ├── contact.html                     # Contact form and social links
+├── gitDataCampPath.html             # Git Fundamentals course breakdown and certs
 ├── skills.html                      # Technical skills and Concepts
 ├── LICENSE.txt                      # CC BY 3.0 license text
 ├── README.md                        # Project description (this file)
